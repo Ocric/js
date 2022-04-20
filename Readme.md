@@ -1,18 +1,28 @@
-# Este es el repositorio de ejercicios de JS
+# El Titulo
+## Subtitulo
+### Title
+jsjssjdh
+gaahaak/
 
-### Algo
-La función `promt()` es para solicitar datos al usuario
 
-`alert()`
+**texto normal**
+__texto en cursiva__
+~~tachado~~
 
-### Console
-[asd](asd.md)
+Usa `nombrefuncion()` para hacer x cosas
+cosa
 
-[Ir a google](google.es)
+```
+diferentes
+lineas
+de
+codigo
+```
 
-`console.log()`
+[Ir a google](https.//www.google.es)
 
-`console.warn()`
+La funcion jagjgjsj hace tal `cosa()` cuando asrmarem
 
-`console.error()`
-
+>Cita
+>>cita 2
+>>>cita 3
